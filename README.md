@@ -13,19 +13,19 @@
 
 ## 🧬 The Toolkit
 
-**Backend Consciousness** ![81%](https://progress-bar.dev/81?color=00ff41&width=150)  
+#### 🔧 **Backend Consciousness** - 1yr experience ![81%](https://progress-bar.dev/81?color=00ff41&width=200)
 Python • FastAPI • WebSockets • REST APIs • SQLAlchemy • Asyncio
 
-**AI Cognition** ![58%](https://progress-bar.dev/58?color=ff9500&width=150)  
+#### 🧠 **AI Cognition** - 1yr experience ![58%](https://progress-bar.dev/58?color=ff9500&width=200)
 TensorFlow • PyTorch • Keras • OpenCV • Pandas • Scikit-learn • MLOps
 
-**Data Synapses** ![70%](https://progress-bar.dev/70?color=0099ff&width=150)  
+#### 🗄️ **Data Synapses** - 1yr experience ![70%](https://progress-bar.dev/70?color=0099ff&width=200)
 PostgreSQL • MongoDB • Redis • MySQL • Vector Databases
 
-**Cloud Neurons** ![55%](https://progress-bar.dev/55?color=9c27b0&width=150)  
+#### ☁️ **Cloud Neurons** - 1yr experience ![55%](https://progress-bar.dev/55?color=9c27b0&width=200)
 Docker • Git • GitHub • Linux • AWS (S3, EC2, SageMaker) • CI/CD
 
-**Frontend Cortex** ![30%](https://progress-bar.dev/30?color=61dafb&width=150)  
+#### 🎨 **Frontend Cortex** - 1yr experience ![30%](https://progress-bar.dev/30?color=61dafb&width=200)
 React • TypeScript • Streamlit
 
 ---
