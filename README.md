@@ -13,20 +13,20 @@
 
 ## 🧬 The Toolkit
 
-#### 🔧 **Backend Consciousness** - 1yr experience ![81%](https://progress-bar.dev/81?color=00ff41&width=200)
-Python • FastAPI • WebSockets • REST APIs • SQLAlchemy • Asyncio
+**Backend Consciousness** ![81%](https://progress-bar.dev/81?color=00ff41&width=150)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-306998?style=flat-square&logo=python&logoColor=white)
 
-#### 🧠 **AI Cognition** - 1yr experience ![58%](https://progress-bar.dev/58?color=ff9500&width=200)
-TensorFlow • PyTorch • Keras • OpenCV • Pandas • Scikit-learn • MLOps
+**AI Cognition** ![58%](https://progress-bar.dev/58?color=ff9500&width=150)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-#### 🗄️ **Data Synapses** - 1yr experience ![70%](https://progress-bar.dev/70?color=0099ff&width=200)
-PostgreSQL • MongoDB • Redis • MySQL • Vector Databases
+**Data Synapses** ![70%](https://progress-bar.dev/70?color=0099ff&width=150)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### ☁️ **Cloud Neurons** - 1yr experience ![55%](https://progress-bar.dev/55?color=9c27b0&width=200)
-Docker • Git • GitHub • Linux • AWS (S3, EC2, SageMaker) • CI/CD
+**Cloud Neurons** ![55%](https://progress-bar.dev/55?color=9c27b0&width=150)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-#### 🎨 **Frontend Cortex** - 1yr experience ![30%](https://progress-bar.dev/30?color=61dafb&width=200)
-React • TypeScript • Streamlit
+**Frontend Cortex** ![30%](https://progress-bar.dev/30?color=61dafb&width=150)  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
