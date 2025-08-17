@@ -1,6 +1,6 @@
+<div align="center">
 # Bhuwan Singh
 
-<div align="center">
 
 ### 
 **AI-Powered Backend Systems | FastAPI & Machine Learning**
